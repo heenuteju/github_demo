@@ -1,2 +1,3 @@
 # github_demo
-Learning how to use github 
+Learning how to use github
+Author - Heena Jeganathan Kannan
